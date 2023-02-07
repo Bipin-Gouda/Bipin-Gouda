@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bipin Gouda</h1>
+<h1 align="center">Hi, I'm Bipin</h1>
 <h3 align="center">I like Python and doing fun stuff in it </h3>
 
 - 🌱 I’m currently learning **Deep Learning, GANS**
@@ -9,7 +9,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Python....Scikit,pandas,numpy,seaborn,OpenCv etc data science tools
+- Python - (Scikit,pandas,numpy,seaborn,OpenCv etc data science tools)
 
 - C++
 
