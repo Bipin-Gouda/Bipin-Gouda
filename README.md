@@ -8,6 +8,7 @@
 - Connect with me- "https://linkedin.com/in/bipin-gouda-4946a8217"
 
 <h3 align="left">Languages and Tools:</h3>
+
 - Python....Scikit,pandas,numpy,seaborn,OpenCv etc data science tools
 
 - C++
