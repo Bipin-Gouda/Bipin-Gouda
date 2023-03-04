@@ -13,11 +13,11 @@
 
 - Data Science ie - (Scikit,pandas,numpy,seaborn,OpenCv etc data science tools)
 
-- C++
+- PowerBI
 
 - DBMS(SQL)
 
-- PowerBI
+- C++
 
 <!---
 Bipin-Gouda/Bipin-Gouda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
