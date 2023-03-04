@@ -9,11 +9,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Python - (Scikit,pandas,numpy,seaborn,OpenCv etc data science tools)
+- Python 
+
+- Data Science ie - (Scikit,pandas,numpy,seaborn,OpenCv etc data science tools)
 
 - C++
 
 - DBMS(SQL)
+
+- PowerBI
 
 <!---
 Bipin-Gouda/Bipin-Gouda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
