@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Bipin</h1>
 <h3 align="center">I like Python and doing fun stuff in it </h3>
 
-- 🖥️ I’m currently learning **Deep Learning**
+I am a Computer Science Graduate
+
+- 🖥️ currently exploring **Deep Learning**
 
 - 📫 How to reach me **bipingouda1199@gmail.com**
 
