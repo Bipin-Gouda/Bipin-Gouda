@@ -14,6 +14,8 @@ I am a Computer Science Graduate
 - Python 
 
 - Data Science ie - (Scikit,pandas,numpy,seaborn,OpenCv etc data science tools)
+                        - ML
+                        - DL
 
 - PowerBI
 
