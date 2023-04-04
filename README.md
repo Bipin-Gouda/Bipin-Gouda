@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bipin</h1>
+<h1 align="center">Hi👋, I'm Bipin</h1>
 <h3 align="center">I like Python and doing fun stuff in it </h3>
 
 I am a Computer Science Graduate
