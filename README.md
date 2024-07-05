@@ -9,17 +9,13 @@ I am a Computer Science Graduate, pursuing my Master's in Artificial Intelligenc
 
 - Connect with me- "https://linkedin.com/in/bipin-gouda-4946a8217"
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
-- Python 
-
-- Data Science ie - (Scikit,pandas,numpy,seaborn,OpenCv etc data science tools)
-                        - ML
-                        - DL
-
-- DBMS(SQL)
-
-- C++
+- Programming Languages: Python, C++
+- Visualization & Analysis Tools: Matplotlib, Seaborn, NumPy, Pandas
+- Machine Learning & Deep Learning Tools: Scikit-learn, TensorFlow, PyTorch
+- Statistics: Descriptive Statistics, Inferential Statistics (Distributions, Hypothesis Testing etc.) 
+- Tools & Frameworks: Jupyter Notebooks, VS Code, Streamlit, Flask, MySQL, GIT
 
 <!---
 Bipin-Gouda/Bipin-Gouda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
