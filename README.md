@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Bipin</h1>
 <h3 align="center">I like Python and doing fun stuff in it </h3>
 
-I am a Computer Science Graduate
+I am a Computer Science Graduate, pursuing my Master's in Artificial Intelligence from NIT Bhopal.
 
 - 🖥️ currently exploring **Deep Learning**
 
@@ -16,8 +16,6 @@ I am a Computer Science Graduate
 - Data Science ie - (Scikit,pandas,numpy,seaborn,OpenCv etc data science tools)
                         - ML
                         - DL
-
-- PowerBI
 
 - DBMS(SQL)
 
