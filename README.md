@@ -19,7 +19,7 @@ I am a Computer Science Graduate, pursuing my Master's in Artificial Intelligenc
   
 - **Statistics:** Descriptive Statistics, Inferential Statistics (Distributions, Hypothesis Testing etc.)
   
-- **Tools & Frameworks:** Jupyter Notebooks, VS Code, Streamlit, Flask, MySQL, GIT
+- **Tools & Frameworks:** Jupyter Notebooks, VS Code, Streamlit, FastAPI, MySQL, GIT
 
 <!---
 Bipin-Gouda/Bipin-Gouda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
